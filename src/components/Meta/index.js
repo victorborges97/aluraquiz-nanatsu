@@ -35,6 +35,8 @@ const Meta = () => (
       name="og:image"
       content={MY_SEO.openGraph.image}
     />
+
+    <link rel="icon" type="image/png" href={MY_SEO.openGraph.icon} />
   </Head>
 );
 

@@ -1,5 +1,6 @@
 {
-  "bg": "https://ptanime.com/wp-content/uploads/2018/06/Nanatsu-no-Taizai-Prisoners-of-the-Sky-filme-ad-destaque-v2.jpg",
+  "bg": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d6788a4-f33d-45e0-8c4a-d240d4d975d0/dc9dk6n-e4d7e96a-7fb7-40d0-8a40-06a50cde3e14.jpg/v1/fill/w_1192,h_670,q_70,strp/wallpaper___nanatsu_no_taizai_by_surumkata_dc9dk6n-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMDgwIiwicGF0aCI6IlwvZlwvNWQ2Nzg4YTQtZjMzZC00NWUwLThjNGEtZDI0MGQ0ZDk3NWQwXC9kYzlkazZuLWU0ZDdlOTZhLTdmYjctNDBkMC04YTQwLTA2YTUwY2RlM2UxNC5qcGciLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.LtUC58HEqjBDC5UM3t29QIZ0AirJLPuiUaXvUQMy1Q4",
+  "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/99b0b4b2-1ec2-42db-8d72-689653733407/day7c8s-4276a4b1-02a6-433d-b07a-66131b5e9978.png",
   "title": "Quem sabe mais sobre Nanatsu no Taizai",
   "description": "Venha descobrir mais sobre esse anime espetacular",
   "questions": [],
@@ -11,7 +12,8 @@
       "mainBg": "#bc9e5f",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
-      "success": "#ff9800"
+      "success": "#ff9800",
+      "ter": "#8b415c"
     },
     "borderRadius": "4px"
   }

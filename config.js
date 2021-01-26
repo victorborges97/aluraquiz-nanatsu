@@ -9,5 +9,6 @@ export const MY_SEO = {
     title: db.title,
     description: db.description,
     image: db.bg,
+    icon: db.icon
   }
 };
