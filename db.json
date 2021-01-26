@@ -1,0 +1,18 @@
+{
+  "bg": "https://ptanime.com/wp-content/uploads/2018/06/Nanatsu-no-Taizai-Prisoners-of-the-Sky-filme-ad-destaque-v2.jpg",
+  "title": "Quem sabe mais sobre Nanatsu no Taizai",
+  "description": "Venha descobrir mais sobre esse anime espetacular",
+  "questions": [],
+  "external": [],
+  "theme": {
+    "colors": {
+      "primary": "#ff9800",
+      "secundary": "#e6c74b",
+      "mainBg": "#bc9e5f",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#ff9800"
+    },
+    "borderRadius": "4px"
+  }
+}
