@@ -1,19 +1,148 @@
 {
-  "bg": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d6788a4-f33d-45e0-8c4a-d240d4d975d0/dc9dk6n-e4d7e96a-7fb7-40d0-8a40-06a50cde3e14.jpg/v1/fill/w_1192,h_670,q_70,strp/wallpaper___nanatsu_no_taizai_by_surumkata_dc9dk6n-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMDgwIiwicGF0aCI6IlwvZlwvNWQ2Nzg4YTQtZjMzZC00NWUwLThjNGEtZDI0MGQ0ZDk3NWQwXC9kYzlkazZuLWU0ZDdlOTZhLTdmYjctNDBkMC04YTQwLTA2YTUwY2RlM2UxNC5qcGciLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.LtUC58HEqjBDC5UM3t29QIZ0AirJLPuiUaXvUQMy1Q4",
+  "bg": {
+    "principal": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5d6788a4-f33d-45e0-8c4a-d240d4d975d0/dc9dk6n-e4d7e96a-7fb7-40d0-8a40-06a50cde3e14.jpg/v1/fill/w_1192,h_670,q_70,strp/wallpaper___nanatsu_no_taizai_by_surumkata_dc9dk6n-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMDgwIiwicGF0aCI6IlwvZlwvNWQ2Nzg4YTQtZjMzZC00NWUwLThjNGEtZDI0MGQ0ZDk3NWQwXC9kYzlkazZuLWU0ZDdlOTZhLTdmYjctNDBkMC04YTQwLTA2YTUwY2RlM2UxNC5qcGciLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.LtUC58HEqjBDC5UM3t29QIZ0AirJLPuiUaXvUQMy1Q4",
+    "question1": "https://images4.alphacoders.com/859/859921.png"
+  },
   "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/99b0b4b2-1ec2-42db-8d72-689653733407/day7c8s-4276a4b1-02a6-433d-b07a-66131b5e9978.png",
   "title": "Quem sabe mais sobre Nanatsu no Taizai",
   "description": "Venha descobrir mais sobre esse anime espetacular",
-  "questions": [],
+  "questions": [
+    {
+      "alternatives": [
+        "Meliodas e Merlin",
+        "King e Diane",
+        "Merlin e Gowther",
+        "Gowther e Meliodas",
+        "Ban e Meliodas"
+      ],
+      "answer": 3,
+      "description": "",
+      "image": "https://img.quizur.com/f/img5c83189f1b9656.41202418.png?lastEdited=1552095402",
+      "title": "Quais os dois pecados capitais que já foram membros dos 'Dez Mandamentos' no passado?"
+    },
+    {
+      "alternatives": [
+        "'Polinização'",
+        "'Infinidade'",
+        "'Cura'",
+        "'Desastre'",
+        "'Amor'"
+      ],
+      "answer": 3,
+      "description": "",
+      "image": "https://img.quizur.com/f/img5c8318fd411fb0.91891969.jpg?lastEdited=1552095495",
+      "title": "Qual o nome da magia de King?"
+    },
+    {
+      "alternatives": [
+        "Gelda",
+        "Gélia",
+        "Zelda",
+        "Elli"
+      ],
+      "answer": 0,
+      "description": "",
+      "image": "",
+      "title": "Qual é o nome da amada de Zeldris?"
+    },
+    {
+      "alternatives": [
+        "Aproximadamente 750K",
+        "Aproximadamente 380K",
+        "Aproximadamente 500K",
+        "Menos de 100K"
+      ],
+      "answer": 2,
+      "description": "",
+      "image": "https://img.quizur.com/f/img5c831ab0676537.85623845.jpg?lastEdited=1552095930",
+      "title": "Qual foi a parcela de poder concedida aos Dez Mandamentos, pelo Rei dos Demônios?"
+    },
+    {
+      "alternatives": [
+        "Os 3 arcanjos Dominantes (exceto Mael)",
+        "Ban, Meliodas e King",
+        "Diane, King e Gowther",
+        "Merlin, Escanor e Ryudoshel"
+      ],
+      "answer": 2,
+      "description": "",
+      "image": "https://img.quizur.com/f/img5c831c1baf6ee3.10564168.png?lastEdited=1552096310",
+      "title": "O chamado 'Ataque da Trindade' foi executado por quais personagens?"
+    },
+    {
+      "alternatives": [
+        "Vento",
+        "Espada",
+        "Gelo",
+        "Água"
+      ],
+      "answer": 2,
+      "description": "",
+      "image": "https://img.quizur.com/f/img5c831ec37c4c81.52613990.jpg?lastEdited=1552096997",
+      "title": "Aparentemente o poder/magia de Jericho provém de qual elemento?"
+    },
+    {
+      "alternatives": [
+        "Criatura Hydra",
+        "Mãe da Natureza",
+        "Mãe Demoniaca",
+        "Mãe do Caos"
+      ],
+      "answer": 3,
+      "description": "",
+      "image": "https://img.quizur.com/f/img5c832002ee8e54.23876361.jpg?lastEdited=1552097290",
+      "title": "A Mamãe Hawk (ou Mama Hawk) possuí o título de:"
+    },
+    {
+      "alternatives": [
+        "Verdadeiro",
+        "Falso"
+      ],
+      "answer": 0,
+      "description": "",
+      "image": "https://img.quizur.com/f/img5c8312206eff71.17697895.jpg?lastEdited=1552093738",
+      "title": "Nanatsu no Taizai está com seu mangá previsto para finalizar esse ano .."
+    },
+    {
+      "alternatives": [
+        "Merlin",
+        "Gowther",
+        "Diane",
+        "Ban",
+        "Meliodas",
+        "Elizabeth",
+        "King",
+        "Escanor"
+      ],
+      "answer": 6,
+      "description": "",
+      "image": "https://img.quizur.com/f/img600edf0e4d5a76.23252886.jpeg?lastEdited=1611587345",
+      "title": "Qual personagem ganhou o primeiro concurso de popularidade de Nanatsu no Taizai?"
+    },
+    {
+      "alternatives": [
+        "Rei dos Demônios",
+        "Besta Hydra",
+        "DK",
+        "O Pecador"
+      ],
+      "answer": 3,
+      "description": "",
+      "image": "https://img.quizur.com/f/img5c83216b9467b6.59037302.png?lastEdited=1552097657",
+      "title": "Como ficou conhecido na obra o 'Primeiro dos Demônios'?"
+    }
+  ],
   "external": [],
   "theme": {
     "colors": {
-      "primary": "#ff9800",
+      "primary": "#0073A8",
       "secundary": "#e6c74b",
-      "mainBg": "#bc9e5f",
+      "mainBg": "#1D1F44",
       "contrastText": "#FFFFFF",
-      "wrong": "#FF5722",
-      "success": "#ff9800",
-      "ter": "#8b415c"
+      "wrong": "#54A1B9",
+      "success": "#0073A8",
+      "ter": "#8b415c",
+      "border": "#0073A8"
     },
     "borderRadius": "4px"
   }

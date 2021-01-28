@@ -1,3 +1,5 @@
+import React, { useState } from "react"
+import { useRouter } from "next/router"
 import styled from 'styled-components';
 import Link from "next/link";
 import db from '../db.json';
@@ -31,9 +33,48 @@ const LabelBtn = styled.a`
   }
 `;
 
+const Button = styled.button`
+  border-radius: ${({ theme }) => theme.borderRadius};
+  margin-top: 10px;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid ${({ theme }) => theme.colors.border};
+  background: ${({ theme }) => theme.colors.wrong};
+  color: ${({ theme }) => theme.colors.contrastText};
+  cursor: pointer;
+  font-size: 14px;
+  :hover{
+    background: ${({ theme }) => theme.colors.primary};
+  }
+`;
+
+const Input = styled.input`
+  border-radius: ${({ theme }) => theme.borderRadius};
+  margin-top: 10px;
+  width: 100%;
+  padding: 10px;
+  color: ${({ theme }) => theme.colors.contrastText};
+  background: transparent;
+  border: 1px solid ${({ theme }) => theme.colors.border};
+  font-size: 14px;
+`
+
+
+
 export default function Home() {
+  const router = useRouter()
+  const [name, setName] = useState("");
+
+
+  const submitEvent = (e) => {
+    e.preventDefault()
+    if (name) {
+      router.push(`/questions?name=${name}`)
+    }
+  }
+
   return (
-    <QuizBackground backgroundImage={db.bg}>
+    <QuizBackground backgroundImage={db.bg.principal}>
       <QuizContainer>
         <QuizLogo />
         <Widget>
@@ -42,7 +83,20 @@ export default function Home() {
           </Widget.Header>
           <Widget.Content>
             <p>{db.description}</p>
+            <form onSubmit={submitEvent}>
+              <Input
+                type="text"
+                name="seuNome"
+                placeholder="Diz ai seu nome"
+                value={name}
+                onChange={e => setName(e.target.value)}
+              />
+              <Button type="submit" disabled={name.length === 0} >
+                Jogar {name}
+              </Button>
+            </form>
           </Widget.Content>
+
         </Widget>
 
         <Widget>

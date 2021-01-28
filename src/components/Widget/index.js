@@ -44,4 +44,22 @@ Widget.Header = styled.header`
   background-color: ${({ theme }) => theme.colors.primary};
 `
 
+Widget.Topic = styled.a`
+  outline: 0;
+  text-decoration: none;
+  color: ${({ theme }) => theme.colors.contrastText};
+  background: ${({ theme }) => theme.colors.primary};
+  padding: 10px 15px;
+  margin-bottom: 8px;
+  cursor: pointer;
+  border-radius: ${({ theme }) => theme.borderRadius};
+  transition: .3s;
+  display: block;
+
+  &:hover,
+  &:focus {
+    opacity: .5;
+  }
+`
+
 export default Widget;
